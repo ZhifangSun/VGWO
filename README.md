@@ -1,5 +1,4 @@
-# Source code and Experimental Results of paper "VGWO: Variant Grey Wolf Optimizer with High
-Accuracy and Low Time Complexity".
+# Source code and Experimental Results of paper "VGWO: Variant Grey Wolf Optimizer with High Accuracy and Low Time Complexity".
 
 #catalogue:
 
