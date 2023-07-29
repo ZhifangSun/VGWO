@@ -17,6 +17,8 @@
 
                 experimental.py: Optimizing 19 benchmark functions with VGWO;
 
+                IMODE.py: Solving 19 Benchmark Functions with 2020CEC Winner IMODE;
+
 
         2. result:
                 """
@@ -33,4 +35,6 @@
 
                 result of engineering_cases;
 
-                result of experimental
+                result of experimental;
+
+                result of IMODE;
